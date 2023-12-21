@@ -1,6 +1,6 @@
-# Eletrical Panel
+# Electrical Panel
 
-The electrical panel is where the player can control the power for the unit. The E.P consists of the following switches, from top-bottom, left-right;
+The electrical panel is where the player can control the power distribution for the unit and its connection to the national grid. The E.P. consists of the following switches, from top-bottom, left-right;
 
 ## Breakers
 
@@ -37,7 +37,7 @@ This connects the emergency bus to the DC bus, allowing for the lights to be on 
 This connects the Diesel generator to the DC bus, allowing the D.G to be started up via:
 
 ### DG. Startup Spark
-Ignites the diesel, starting up the generator. This will cause the RPM of it to slowly tick up, until it reaches 1800 RPM.
+Spins up and ignites the diesel, starting up the generator. This will cause the RPM of it to slowly tick up, until it reaches 1800 RPM.
 
 ## Busses
 
@@ -56,4 +56,4 @@ This powers most key systems for shutdown. It powers the CARs (Condenser Air Rem
 This powers the ventilation (has no ingame use atm) and the main lights.
 
 ### Emergency Bus
-This powers the Low Power (LP) lights, and the actual controls for the panels. If the battery dies (hits 0%), these systems would be unable to work, giving 0 lighting and no control over operations, and as such, will automatically kick you.
+This powers the Low Power (LP) lights, and the actual controls for the panels. If the battery dies (hits 0%), these systems would be unable to work, giving 0 lighting and no control over operations, and as such, the server you're playing on will be shut down.
