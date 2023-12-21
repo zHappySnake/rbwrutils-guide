@@ -7,7 +7,7 @@ The rods start out fully inserted with the average rod position at 0%.
 Allows you to manually move the rods. Its speed can be adjusted with the “Rod Control Speed” switch.
 
 ### Auto Balancer:
-Rods temperature imbalance happens because the fuel rods are fueled unequally. Automatically matches the temperatures between rods with instability as a side effect. It’s recommended to keep it on “Fast” until you’ve met demand (or until you see the temperature imbalance has been fixed), after which you can turn it off. _Attention: major temperature imbalance will cause a reactor trip, so pay attention to rod temperature monitor._
+Rods temperature imbalance happens because the fuel rods are fueled unequally. Automatically matches the temperatures between rods with instability as a side effect. It’s recommended to keep it on “Fast” until you’ve met demand (or until you see the temperature imbalance has been fixed), after which you can turn it off. *Attention: major temperature imbalance will cause a reactor trip, so pay attention to rod temperature monitor.*
 
 ### SCRAM:
 Rapidly inserts all of the rods, shutting down the reactor. This does not immediately cool down the reactor so shutdown cooling is required for a full shutdown.
